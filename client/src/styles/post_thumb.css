@@ -43,3 +43,13 @@
     color: white;
     margin: 0 25px;
 }
+.text-center text-danger{
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    text-decoration-color: black;
+    display: flex;
+
+}
+
+
